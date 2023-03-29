@@ -1,0 +1,135 @@
+/* Colors and fonts */
+body {
+	background-color: rgb(230, 230, 230);
+	color: darkblue;
+	font-family: twentieth century;
+	background: linear-gradient(to bottom,rgb(217 218 231), rgb(155 157 180));
+}
+
+h1 {
+	color: rgb(30, 30, 30)
+	font-family: impact;
+	font-weight: 100;
+	letter-spacing: 6px;
+	font-size: 32px;
+	text-transform: uppercase;
+}
+
+p  {
+  line-height: 2;
+
+}
+
+h2 {
+  color: #a23838;
+  font-family: courier,monospace;
+}
+
+div {
+
+}
+
+/* Custom design with class */
+
+.container {
+  width: 700px;
+  margin: 40px auto;
+}
+
+div {  
+	background: dark dimgrey;
+	broder: 2px solid black ;
+	margin: 10px;
+
+}
+.card-dimgrey{
+	background-color: rgb(238 234 234);
+    padding: 100px;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    margin: 20px 0px;
+    text-align: center;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1)
+}
+
+.card-dimgrey {
+  background-color: rgb(238 234 234);
+  padding: 100px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  margin: 20px 0px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1) ;
+}
+
+.card-red {
+  background-color: rgb(123 125 151);
+  padding: 290px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  margin: 20px 0px;
+}
+
+.text-centered {
+  text-align: center;
+}
+
+.list-centered {
+  text-align: left;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px ;
+
+}
+
+.list-inline li {
+  display: inline;
+  padding: 10px;
+}
+
+.list-inline i {
+  font-size: 50px;
+  color: black;
+}
+
+.list-inline i:hover {
+  color: white;
+}
+
+.img-circle  {
+	border-radius: 50%;
+
+}
+
+.btn-blue{
+	background-color: #6B72E1;
+	color: ghostwhite;
+	padding: 15px 20px;
+	border-radius: 20px;
+}
+
+}
+a{
+	font-family: 'roboto', sans-serif;
+	text-decoration: none;
+	color: #6B72E1;
+	font-weight: 600;
+	font-size: 16px;
+}
+a:hover {
+	color: black;
+}
+
+
+}
+.btn-blue: i: hover {
+	color: white;
+}
+
+}
+
+
+
+
+
